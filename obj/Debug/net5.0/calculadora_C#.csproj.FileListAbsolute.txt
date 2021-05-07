@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\bin\Debug\net5.0\calculadora_C#.exe
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\bin\Debug\net5.0\calculadora_C#.deps.json
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\bin\Debug\net5.0\calculadora_C#.runtimeconfig.json
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\bin\Debug\net5.0\calculadora_C#.runtimeconfig.dev.json
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\bin\Debug\net5.0\calculadora_C#.dll
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\bin\Debug\net5.0\ref\calculadora_C#.dll
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\bin\Debug\net5.0\calculadora_C#.pdb
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\obj\Debug\net5.0\calculadora_C#.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\obj\Debug\net5.0\calculadora_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\obj\Debug\net5.0\calculadora_C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\obj\Debug\net5.0\calculadora_C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\obj\Debug\net5.0\calculadora_C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\obj\Debug\net5.0\calculadora_C#.dll
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\obj\Debug\net5.0\ref\calculadora_C#.dll
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\obj\Debug\net5.0\calculadora_C#.pdb
+C:\Users\user\Desktop\Projetos Senai\calculadora_C#\obj\Debug\net5.0\calculadora_C#.genruntimeconfig.cache
